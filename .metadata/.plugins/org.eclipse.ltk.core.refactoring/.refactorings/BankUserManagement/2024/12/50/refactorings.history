@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;UserTypeStrategy.java&apos; to &apos;BankUserManagement/src/strategy&apos;&#x0D;&#x0A;- Original project: &apos;BankUserManagement&apos;&#x0D;&#x0A;- Destination element: &apos;BankUserManagement/src/strategy&apos;&#x0D;&#x0A;- Original element: &apos;model.UserTypeStrategy.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;strategy" element1="/src&lt;model{UserTypeStrategy.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1734178708599" units="1" version="1.0"/>
+</session>
